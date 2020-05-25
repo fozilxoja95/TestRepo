@@ -56,7 +56,7 @@
             Margin="20,160,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
-            Content="NURLI DATA MO`JIZASI"
+            Content="NURLI DATA MO`JIZA"
             FontFamily="arial"
             FontSize="10"
             FontWeight="DemiBold" />
