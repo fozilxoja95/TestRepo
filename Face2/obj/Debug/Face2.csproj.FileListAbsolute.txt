@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Face2\Face2\bin\Debug\Face2.exe.config
+C:\Users\User\source\repos\Face2\Face2\bin\Debug\Face2.exe
+C:\Users\User\source\repos\Face2\Face2\bin\Debug\Face2.pdb
+C:\Users\User\source\repos\Face2\Face2\obj\Debug\Face2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Face2\Face2\obj\Debug\Face.g.cs
+C:\Users\User\source\repos\Face2\Face2\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Face2\Face2\obj\Debug\Face2_MarkupCompile.cache
+C:\Users\User\source\repos\Face2\Face2\obj\Debug\Face2_MarkupCompile.lref
+C:\Users\User\source\repos\Face2\Face2\obj\Debug\Face.baml
+C:\Users\User\source\repos\Face2\Face2\obj\Debug\Face2.g.resources
+C:\Users\User\source\repos\Face2\Face2\obj\Debug\Face2.Properties.Resources.resources
+C:\Users\User\source\repos\Face2\Face2\obj\Debug\Face2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Face2\Face2\obj\Debug\Face2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Face2\Face2\obj\Debug\Face2.exe
+C:\Users\User\source\repos\Face2\Face2\obj\Debug\Face2.pdb
+C:\Users\User\source\repos\Face2\Face2\obj\Debug\App.baml
